@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Actividad_Evaluada</string>
+
+    <string name="example">Especial casa</string>
+
+    <string name="receta">Nombre receta:</string>
+    <string name="ingrediente_principal">Ingrediente Principal:</string>
+    <string name="base">Base de pizza:</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="alinios">Aliños:</string>
+
+    <string name="rbtn_carne">Carne</string>
+    <string name="rbtn_pollo">Pollo</string>
+    <string name="rbtn_mix">Mix</string>
+
+    <string name="blanca">Blanca</string>
+    <string name="roja">Roja</string>
+
+    <string name="cebolla">Cebolla</string>
+    <string name="champinion">Champiñon</string>
+    <string name="morron">Morron</string>
+    <string name="tomate">Tomate</string>
+    <string name="tomate_cherry">Tomate Cherry</string>
+    <string name="palta">Palta</string>
+
+    <string name="ajo">Ajo</string>
+    <string name="albaca">Albaca</string>
+    <string name="oregano">Oregano</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="ver_recetas">Ver recetas</string>
+    <string name="precio">Precio: </string>
+</resources>
